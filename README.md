@@ -1,2 +1,3 @@
 # HTN
-Hệ Thống Nhúng ; BTL : GVHD: Ths. Tăng Cẩm Nhung, D-AN, GVHD: ThS. Nguyễn Tiến Duy
+Hệ Thống Nhúng ; Bài tập lớn : GVHD: Ths. Tăng Cẩm Nhung,
+Đồ ÁN, GVHD: ThS. Nguyễn Tiến Duy
